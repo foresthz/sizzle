@@ -2,6 +2,7 @@
 .settings
 *~
 *.diff
+dist/
 *.patch
 *.sizecache.json
 .DS_Store
